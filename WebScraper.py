@@ -10,3 +10,5 @@ URLClient.close()
 
 # html parser
 page_BS4 = BeautifulSoup(page_html, "html.parser")# git-practice
+
+print("IDK What dafuq am I doing bruv")
